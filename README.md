@@ -18,5 +18,6 @@
 
 ## Wednesday
 - setup express server from scratch (Rath)
+- setting up a simple knex / command line node app - migrations, initial query (Max)
 
 ## Thursday
