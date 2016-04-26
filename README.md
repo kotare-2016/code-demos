@@ -5,8 +5,8 @@
 - setting up a postgres database locally
 - create a simple object via test driven development (from scratch)
 - SQL joins via sqlite3 interface
-- client side rendering vs server side rendering
 - consume an api
+- walk through an app's node_modules explaining what each one does
 - setup a facebook oauth login with passport
 
 
@@ -23,6 +23,6 @@
 ## Wednesday
 - setup express server from scratch (Rath)
 - setting up a simple knex / command line node app - migrations, initial query (Max)
-- walk through an app's node_modules explaining what each one does (Heidi)
+- client side rendering vs server side rendering(Heidi)
 
 ## Thursday
