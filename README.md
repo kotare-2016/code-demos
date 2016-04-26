@@ -18,10 +18,11 @@
 - using tape to test an express server (JV)
 - git workflow on a group project (issues, pull requests) (JV)
 - setting up sessions using knex store (JV)
-- walk through an app's node_modules explaining what each one does (Heidi)
+
 
 ## Wednesday
 - setup express server from scratch (Rath)
 - setting up a simple knex / command line node app - migrations, initial query (Max)
+- walk through an app's node_modules explaining what each one does (Heidi)
 
 ## Thursday
