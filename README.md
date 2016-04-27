@@ -1,5 +1,7 @@
 # code-demos
 
+- critter templating (using layouts with handlebars)
+- building a json api in Critter
 - MVC architecture
 - jquery events (click, keys, dragging, mouse)
 - create a simple object via test driven development (from scratch) (JV)
@@ -26,15 +28,15 @@
 ## Wednesday
 - testing with databases (JV)
 - setup express server from scratch (Rath)
-- setting up a simple knex / command line node app - migrations, initial query (Max)
 - client side rendering vs server side rendering(Heidi)
 
 ## Thursday
 - basics of heroku deployment (JV)
 - setting up a postgres database locally (JV)
+- github merging and conflicts (JV)
 - consume an api (Rahmona)
-- setting up a simple knex / command line node app - migrations, initial query (Jess)
-- setup a facebook oauth login with passport (Lizzie)
+- setting up a simple knex / command line node app - migrations, initial query (Max)
  
 ## Friday
 - walk through an app's node_modules explaining what each one does (Heidi)
+- setup a facebook oauth login with passport (Lizzie)
