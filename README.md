@@ -7,6 +7,7 @@
 - create a simple object via test driven development (from scratch) (JV)
 - SQL joins via sqlite3 interface (Jess)
 - Cordova
+- node version manager
 
 ## Twitter progression
 - express, server side rendering
@@ -34,9 +35,9 @@
 - basics of heroku deployment (JV)
 - setting up a postgres database locally (JV)
 - github merging and conflicts (JV)
-- consume an api (Rahmona)
 - setting up a simple knex / command line node app - migrations, initial query (Max)
  
 ## Friday
+- consume an api (Rahmona)
 - walk through an app's node_modules explaining what each one does (Heidi)
 - setup a facebook oauth login with passport (Lizzie)
