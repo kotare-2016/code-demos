@@ -3,7 +3,6 @@
 - critter templating (using layouts with handlebars)
 - building a json api in Critter
 - MVC architecture
-- jquery events (click, keys, dragging, mouse)
 - create a simple object via test driven development (from scratch) (JV)
 - SQL joins via sqlite3 interface (Jess)
 - Cordova
@@ -41,3 +40,7 @@
 - consume an api (Rahmona)
 - walk through an app's node_modules explaining what each one does (Heidi)
 - setup a facebook oauth login with passport (Lizzie)
+- 
+
+## Monday
+- jquery events (click, keys, dragging, mouse) (Heidi)
